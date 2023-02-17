@@ -1,5 +1,5 @@
 # Internet-Speed-Monitoring-System
-Project On it's way , making a internet speed monitoring system which automatically sends what's app msg to service provider
+ A internet speed monitoring system which automatically sends what's app msg to service provider
 
 Greetings Everyone,
   So this is a basic script i wrote when i was really irritated with my wifi speed.
