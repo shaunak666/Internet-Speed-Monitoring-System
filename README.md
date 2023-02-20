@@ -7,6 +7,6 @@ Greetings Everyone,
   and if the speed is below certain threshold value then the script automatically opens whatsapp 
   and sends the set message. It also create a excel file to store the time and corresponding Internet Speed (Both Upload speed and Download Speed)
   so that you can analyze the Internet Speed Afterwords.
-  Hope you guys use it and Contribute in.
+  Hope you guys use it and contribute in it.
   
   Thank you.
